@@ -38,8 +38,8 @@ from Crypto.Hash import SHA1
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 if not BOT_TOKEN:
     raise RuntimeError("BOT_TOKEN environment variable is not set")
-ADMIN_ID = [7199272008]
-OWNER_USERNAME = "@Jaxooocpm"
+ADMIN_ID = [7212602902]
+OWNER_USERNAME = "@cpmflame"
 
 COIN_FILE = "coins.json"
 USERS_FILE = "users.txt"
